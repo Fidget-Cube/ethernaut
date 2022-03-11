@@ -389,6 +389,21 @@
       "deployId": "25",
       "instanceGas": 5000000,
       "author": "openzeppelin"
+    },
+    {
+      "name": "Test",
+      "created": "2022-03-10",
+      "difficulty": "0",
+      "description": "test.md",
+      "completedDescription": "test_complete.md",
+      "levelContract": "TestFactory.sol",
+      "instanceContract": "Test.sol",
+      "revealCode": true,
+      "deployParams": [],
+      "deployFunds": 0,
+      "deployId": "26",
+      "instanceGas": 800000,
+      "author": "Fidget-Cube"
     }
   ]
 }
