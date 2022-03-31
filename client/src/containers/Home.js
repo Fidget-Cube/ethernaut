@@ -41,8 +41,8 @@ class Home extends React.Component {
           <h2 className="title">
             {strings.title}&nbsp;
             <small style={{ fontSize: 10 }}>by</small>
-            <a href='https://openzeppelin.com' target="_blank" rel="noopener noreferrer">
-              <img style={{ maxWidth: '120px' }} src='../../imgs/openzeppelin-by-logo.png' alt='OpenZeppelin'/>
+            <a href='https://anchain.ai' target="_blank" rel="noopener noreferrer">
+              <img style={{ maxWidth: '120px' }} src='../../imgs/anchainai-by-logo.png' alt='AnChain.AI'/>
             </a>
           </h2>
           {/* INFO */}

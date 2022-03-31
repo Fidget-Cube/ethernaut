@@ -1,0 +1,1 @@
+Nice job! This kind of public blockchain data is commonly utilized in contracts. Knowing how to read and utilize them is crucial.

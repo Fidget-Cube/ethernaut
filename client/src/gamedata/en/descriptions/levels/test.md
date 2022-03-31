@@ -1,1 +1,0 @@
-Hello. Call `contract.setCompleted(true)` to succeed.

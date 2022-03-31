@@ -42,8 +42,8 @@ class Header extends React.Component {
 
             <div className="navbar-brand" style={{paddingTop: '0', paddingBottom: '0', paddingLeft: '25px', lineHeight: '49px'}}>
               <span>
-                <a href="https://openzeppelin.com" target="_blank" rel='noopener noreferrer'>
-                  <img style={{width: '40px', height: '40px'}} src='../../imgs/openzeppelin-logo.svg' alt='OpenZeppelin'/>
+                <a href="https://anchain.ai" target="_blank" rel='noopener noreferrer'>
+                  <img style={{width: '40px', height: '40px'}} src='../../imgs/anchainai-logo.png' alt='AnChain.AI'/>
                 </a>
               </span>
               &nbsp;

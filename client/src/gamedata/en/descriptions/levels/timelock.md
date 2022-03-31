@@ -1,0 +1,3 @@
+Turns out we had some knuckleheads that left development code in the production branch. What the last contract was *supposed* to do was allow a user to increase their lock time, not set it to whatever they want. This bug as now been patched.
+
+See if you can deposit some funds, then withdraw them without waiting a whole week. You may wish to read up on how solidity stores integer values, maybe you can change the values of the variables in an unexpected way?

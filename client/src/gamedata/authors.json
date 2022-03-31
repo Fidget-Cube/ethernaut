@@ -53,6 +53,11 @@
       "name": "OpenZeppelin",
       "email": "ethernaut@zeppelin.solutions",
       "website": "https://openzeppelin.com"
+    },
+    "Fidget-Cube": {
+      "name": "Max vonBlankenburg",
+      "email": "max.vonb@anchain.ai",
+      "website": "https://github.com/Fidget-Cube"
     }
   }
 }
