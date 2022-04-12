@@ -59,6 +59,36 @@
         "deployId": "28",
         "instanceGas": 800000,
         "author": "Fidget-Cube"
+      },
+      {
+        "name": "Conventions",
+        "created": "2022-04-12",
+        "difficulty": "3",
+        "description": "conventions.md",
+        "completedDescription": "conventions_complete.md",
+        "levelContract": "ConventionsFactory.sol",
+        "instanceContract": "Conventions.sol",
+        "revealCode": true,
+        "deployParams": [],
+        "deployFunds": 0,
+        "deployId": "29",
+        "instanceGas": 800000,
+        "author": "Fidget-Cube"
+      },
+      {
+        "name": "Standards",
+        "created": "2022-04-12",
+        "difficulty": "3",
+        "description": "standards.md",
+        "completedDescription": "standards_complete.md",
+        "levelContract": "StandardsFactory.sol",
+        "instanceContract": "Standards.sol",
+        "revealCode": true,
+        "deployParams": [],
+        "deployFunds": 0,
+        "deployId": "30",
+        "instanceGas": 800000,
+        "author": "Fidget-Cube"
       }
     ]
   }

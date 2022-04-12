@@ -1,0 +1,2 @@
+Our development team has implemented new features to our AnChain token! Now addresses can allow other addresses to transfer funds for them. Feel free to play around with this one. Our contract can give an allowance for the transfer of test tokens, but only if you implement specific features in your smart contract. Pay close attention!  
+Get some tokens into your player address to pass the level.
