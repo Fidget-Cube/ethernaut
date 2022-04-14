@@ -87,7 +87,7 @@
         "deployParams": [],
         "deployFunds": 0,
         "deployId": "30",
-        "instanceGas": 800000,
+        "instanceGas": 1600000,
         "author": "Fidget-Cube"
       }
     ]

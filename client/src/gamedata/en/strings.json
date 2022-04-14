@@ -1,7 +1,7 @@
 {
-    "ethernaut": "Over The Chain",
-    "title": "Over The Chain",
-    "info": "<p>Over The Chain is a Web3/Solidity based wargame played on the Ethereum Virtual Machine. Each level is a smart contract that needs to be 'hacked'.</p><p>The game is built and deployed on the Ethernaut platform, created by OpenZeppelin and 100% open source. Have an idea for a challenge just like these? PRs are welcome at <a href='https://github.com/OpenZeppelin/ethernaut'>github.com/OpenZeppelin/ethernaut</a>.",
+    "ethernaut": "I HACK NFT",
+    "title": "I HACK NFT",
+    "info": "<p>I HACK NFT is a Web3/Solidity based wargame played on the Ethereum Virtual Machine. Each level is a smart contract that needs to be 'hacked'.</p><p>The game is built and deployed on the Ethernaut platform, created by OpenZeppelin and 100% open source. Have an idea for a challenge just like these? PRs are welcome at <a href='https://github.com/OpenZeppelin/ethernaut'>github.com/OpenZeppelin/ethernaut</a>.",
     "home": "Home",
     "help": "Help",
     "stats": "Stats",

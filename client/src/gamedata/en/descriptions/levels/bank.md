@@ -13,7 +13,7 @@ contract.balance(player)
 
 To send ETH to a function during a call, add an argument `{value: <amount>}` to the function call, where <amount> is the amount of Wei you want to send (1 ETH = 10^18 Wei). For example:
 ```
-contract.deposit({value: 10*18})
+contract.deposit({value: 10**18})
 ```
  - Another important Solidity concept to understand is the `require()` statement. `require()` will throw an error if the statement in its parenthesis is false, which will completely revert the entire function call. This is a crucial point with smart contracts - if any part of the code fails, the whole function call reverts.
  - Finally, pay attention to the statement `msg.sender.call()`. This allows a contract to call another contract on the chain. You don't need to worry about the workings of this call yet, just keep it in mind for future challenges.
